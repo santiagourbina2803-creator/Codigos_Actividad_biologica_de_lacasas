@@ -1,9 +1,9 @@
 # Codigos_Actividad_biologica_de_lacasas
 
-
+## Secuencias
 Descargar secuencias 
 ```
-curl `url` -O
+curl "url" -O
 ```
 
 Concatenar todas las secuencias .fasta
