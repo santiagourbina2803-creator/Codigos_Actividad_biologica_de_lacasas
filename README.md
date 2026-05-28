@@ -39,10 +39,15 @@ module load iqtree/1.6.12
 iqtree -s FcC_supermatrix.phy -st AA -m TEST -bb 1000 -pre arbolclustal
 ```
 
-## Figuras
+## Figuras y tablas
 
 ![Figura 1. Alineamiento en Jalview.](Jalview.png)
 Figura 1. Alineamiento en Jalview.
 
 ![Figura 2. Árbol de máxima verosimilitud.](ÁrbolMáximaVerosimilitud.png)
 Figura 2. Árbol de máxima verosimilitud.
+
+Tabla 1. Secuencias usadas para análisis filogenético.
+![Tabla 1. Secuencias usadas para análisis filogenético.](Tablasecuencias.pdf)
+
+
