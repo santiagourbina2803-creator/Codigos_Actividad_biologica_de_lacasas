@@ -47,7 +47,6 @@ Figura 1. Alineamiento en Jalview.
 ![Figura 2. Árbol de máxima verosimilitud.](ÁrbolMáximaVerosimilitud.png)
 Figura 2. Árbol de máxima verosimilitud.
 
-Tabla 1. Secuencias usadas para análisis filogenético.
-![Tabla 1. Secuencias usadas para análisis filogenético.](Tablasecuencias.pdf)
+Tabla 1.![Secuencias usadas para análisis filogenético.](Tablasecuencias.pdf)
 
 
