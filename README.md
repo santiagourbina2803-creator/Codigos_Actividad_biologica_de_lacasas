@@ -42,5 +42,5 @@ iqtree -s FcC_supermatrix.phy -st AA -m TEST -bb 1000 -pre arbolclustal
 ![Figura 1. Alineamiento en Jalview.](Jalview.png)
 Figura 1. Alineamiento en Jalview.
 
-![Figura 2. Árbol de máxima verosimilitud.](Jalview.png)
+![Figura 2. Árbol de máxima verosimilitud.](Árbol Máxima Verosimilitud.png)
 Figura 2. Árbol de máxima verosimilitud.
