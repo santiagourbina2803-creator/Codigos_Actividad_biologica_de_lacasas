@@ -1,10 +1,6 @@
 # Codigos_Analisis_filogenetico_lacasas
 
 ## Secuencias
-Descargar secuencias 
-```
-curl "url" -O
-```
 
 Concatenar todas las secuencias .fasta
 ```
