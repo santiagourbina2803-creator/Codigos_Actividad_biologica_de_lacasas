@@ -1,4 +1,4 @@
-# Codigos_Actividad_biologica_de_lacasas
+# Codigos_Analisis_filogenetico_lacasas
 
 ## Secuencias
 Descargar secuencias 
@@ -39,3 +39,4 @@ module load iqtree/1.6.12
 iqtree -s FcC_supermatrix.phy -st AA -m TEST -bb 1000 -pre arbolclustal
 ```
 
+![Figura 1. Alineamiento en Jalview.](/mnt/c/Users/User/Downloads/Jalview.png)
