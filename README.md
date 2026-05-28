@@ -39,7 +39,7 @@ module load iqtree/1.6.12
 iqtree -s FcC_supermatrix.phy -st AA -m TEST -bb 1000 -pre arbolclustal
 ```
 
-### Figuras
+## Figuras
 
 ![Figura 1. Alineamiento en Jalview.](Jalview.png)
 Figura 1. Alineamiento en Jalview.
